@@ -6,11 +6,10 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   // Ajustar com o nome do projeto
-  title: "NovoProjeto Docs",
-  baseUrl: "/template-repo/",
-  projectName: "template-repo",
-  tagline: "Documentação do projeto NovoProjeto",
-
+  title: "Consultor Contábil de IA Docs",
+  baseUrl: "/chatbot-contabilizei/",
+  projectName: "chatbot-contabilizei",
+  tagline: "Documentação do projeto Consultor Contábil de IA",
 
   favicon: "img/favicon.ico",
   // Set the production url of your site here
@@ -61,7 +60,7 @@ const config: Config = {
     footer: {
       style: "dark",
 
-      copyright: `Copyright © ${new Date().getFullYear()} NovoProjeto, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Consultor Contábil de IA, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
