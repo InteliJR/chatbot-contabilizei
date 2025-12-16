@@ -115,7 +115,7 @@ python main.py
         <i>AI Architect</i>
       </a>
       <br />
-      <a href="https://github.com/pedro">
+      <a href="https://github.com/pedropinrodrigues">
         <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)" alt="GitHub" height="25"/>
       </a>
       <a href="https://www.linkedin.com/in/pedro-pinheiro-rodrigues-b129b62b7/">
