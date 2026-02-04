@@ -25,54 +25,30 @@ sidebar_position: 3
 
 ### ✅ Checklist de Entrada
 
-- [ ] Documento de Visão de Produto validado
+- [x] Documento de Visão de Produto validado
 
 ### 📤 Checklist de Saída
 
-- [ ] Stack definida e aprovada
-- [ ] Diagrama de arquitetura completo
+- [x] Stack definida e aprovada
+- [x] Diagrama de arquitetura completo
 - [ ] Plano de implantação claro
 - [ ] Documento validado com o time de Desenvolvimento
 
 ## Stack Tecnológica
 
-### Frontend
-- Framework/Biblioteca: 
-- Linguagem principal: 
-- Ferramentas adicionais:
-- Justificativa da escolha:
 
-### Backend
-- Linguagem: 
-- Framework: 
-- ORM (se aplicável): 
-- Estratégia de autenticação/autorização: 
-- Justificativa da escolha:
-
-### Banco de Dados
-- Tipo (relacional/não-relacional):
-- Tecnologia: 
-- Justificativa da escolha:
-
-### Outras Tecnologias
-- Cache (ex: Redis):
-- Fila de mensagens (ex: RabbitMQ, Kafka):
-- Monitoramento e logs (ex: Datadog, Sentry):
-- Testes automatizados (ex: Jest, Cypress, PyTest):
-- Outras dependências relevantes:
-- Justificativa da escolha:
 
 ## Arquitetura da Solução
 
 ### Visão Geral da Arquitetura
 > Descrição textual resumida da arquitetura proposta.
+A arquitetura do agente está detalhada em [Arquitetura Geral](./Agente/arquitetura_geral_detalhada.md).
 
 ### Componentes Principais
 - Serviços e microsserviços envolvidos
 - Integrações externas (APIs de terceiros)
 
-### Diagrama da Arquitetura (opcional)
-> Incluir imagem ou link para diagrama (em formato .png, .svg, ou mermaid.js)
+
 
 ## Estrutura de Implantação
 
