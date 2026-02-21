@@ -85,7 +85,7 @@ A arquitetura compreende três grandes componentes:
 2. **Pipeline de Ingestão via API (On-Demand)** — adição contínua de novos conhecimentos em tempo real
 3. **Fluxo de Execução Cognitiva (Runtime)** — orquestração do agente com RAG, ferramentas e histórico de conversa
 
-A arquitetura técnica está detalhada em [Arquitetura Geral Detalhada](./Desenvolvimento/arquitetura_geral_detalhada.md).
+A arquitetura técnica está detalhada em [Arquitetura Geral Detalhada](./Documentações%20de%20Desenvolvimento/arquitetura_geral_detalhada.md).
 
 ### Componentes Principais
 
