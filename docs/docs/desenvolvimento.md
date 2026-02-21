@@ -176,12 +176,12 @@ class ChatResponse(BaseModel):
     fontes: List[SourceDoc]
 ```
 
-**Arquitetura de dados detalhada:** [Arquitetura Geral Detalhada](./Desenvolvimento/arquitetura_geral_detalhada.md) e documentação do pipeline RAG em [Arquitetura ETL Blog](./Desenvolvimento/arquitetura_ELT_blog.md) / [Arquitetura ETL Conversas](./Desenvolvimento/arquitetura_ELT_conversa.md).
+**Arquitetura de dados detalhada:** [Arquitetura Geral Detalhada](./Documentações%20de%20Desenvolvimento/arquitetura_geral_detalhada.md) e documentação do pipeline RAG em [Arquitetura ETL Blog](./Documentações%20de%20Desenvolvimento/arquitetura_ELT_blog.md) / [Arquitetura ETL Conversas](./Documentações%20de%20Desenvolvimento/arquitetura_ELT_conversa.md).
 
 ---
 
 ## 📚 Documentação Relacionada
 
-- [Deploy](./Desenvolvimento/deploy.md) — instruções de deploy do agente e RAG
-- [Testes e Segurança](./Desenvolvimento/testes-e-seguranca.md) — estratégia de testes e requisitos de segurança
+- [Deploy](./Documentações%20de%20Desenvolvimento/deploy.md) — instruções de deploy do agente e RAG
+- [Testes e Segurança](./Documentações%20de%20Desenvolvimento/testes-e-seguranca.md) — estratégia de testes e requisitos de segurança
 - [Tecnologias](./tecnologias.md) — stack e arquitetura técnica
